@@ -1,5 +1,9 @@
 # 5100-CMS-Final-Assignment
+Create your own basic CMS in PHP. 
 
+Make sure to upload SQL file with the project. 
+
+Don't forget to upload **link to your** repository on Canvas. 
 
 # Assignment submission
 
